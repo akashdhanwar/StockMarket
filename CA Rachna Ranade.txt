@@ -1,0 +1,18 @@
+1)	Long Term Capital Gain Asset - If a person holds share for more than 1 year and earns profit. Profit is tax free subject to limits(1 Lac)
+2)	Dividend -		Returns earned in shares. It is company decision whether to declare dividend or not. Profit is taxable after 1 April 2020
+				We get Interest in FD, profit is taxable
+	Face Value -	Face Value is the value of company at which it started, decided by promoters
+				Promoters are the people who started the company
+				100% dividend means 100% on Face Value and not on Market Value
+3)	Share Certificate is in physical as well as DeMat format
+4)	Company listed in stock maket means "ABC pvt ltd" to "ABC public ltd" 
+5)	Top Line = Turnover, Bottom Lime = Profit after Tax
+	Turnover for 5 years increase, but Profit decrease. This means expenditure is much more than profit
+	Check Turnover increased and profit increased to identify their growth
+6)	Stock Split -	Face value of share is split, Number of shares increase proportionately
+				Example - Face value half, Shares double, Share price(Listed Value) half. But effect neutral. Buy after stock split
+
+
+
+Watch CNBC not in market hours
+Bring foreign strategy like walmart as dmart
